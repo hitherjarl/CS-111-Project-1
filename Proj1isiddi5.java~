@@ -1,8 +1,3 @@
-/**
- * Class for creating a template for a simple Java program
- * 
- * @author Pat Troy: troy AT uic DOT edu
- */
 
 // write any needed import statements for system libraries
 import java.awt.Color;
